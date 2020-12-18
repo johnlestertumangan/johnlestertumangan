@@ -1,0 +1,116 @@
+html{ 
+	height: 100%;
+}
+
+body{
+	margin: 0;
+	font-family: basic-sans, sans-serif;
+	font-size: 1.225em;
+	line-height: 1.6;
+	color: #333;
+	background: white;
+	
+	min-height: 100%;
+	
+	display: flex;
+	flex-direction: column;
+}
+
+img.one; {
+    margin:20px;
+    padding:3px;
+    outline:px solid #DDD;
+    border:#a1a1a1; 
+    float:center;
+    -webkit-transition: margin 1s ease-out;
+    -moz-transition: margin 1s ease-out;
+    -o-transition: margin 1s ease-out;
+}
+
+img.one:hover {
+    cursor:pointer;
+    margin-bottom: 3px;
+}
+img.two; {
+    margin:20px;
+    padding:3px;
+    outline:0px solid #DDD;
+    border:#a1a1a1; 
+    float:center;
+    -webkit-transition: margin 1s ease-out;
+    -moz-transition: margin 1s ease-out;
+    -o-transition: margin 1s ease-out;
+}
+
+img.two:hover {
+    cursor:pointer;
+    margin-bottom: 3px;
+}
+img.three; {
+    margin:20px;
+    padding:3px;
+    outline:0px solid #DDD;
+    border:#a1a1a1; 
+    float:center;
+    -webkit-transition: margin 1s ease-out;
+    -moz-transition: margin 1s ease-out;
+    -o-transition: margin 1s ease-out;
+}
+
+img.three:hover {
+    cursor:pointer;
+    margin-bottom: 3px;
+}
+img.four; {
+    margin:20px;
+    padding:3px;
+    outline:0px solid #DDD;
+    border:#a1a1a1; 
+    float:center;
+    -webkit-transition: margin 1s ease-out;
+    -moz-transition: margin 1s ease-out;
+    -o-transition: margin 1s ease-out;
+}
+
+img.four:hover {
+    cursor:pointer;
+    margin-bottom: 3px;
+}
+.title{
+	margin: 0 0 0.5em;
+	text-transform: uppercase;
+	font-weight: 900;
+	font-style: ittalic;
+	font-size: 3rem;
+	color: #ee6352;
+	line-height: 0.8;
+}
+img.five; {
+    margin:20px;
+    padding:3px;
+    outline:0px solid #DDD;
+    border:#a1a1a1; 
+    float:center;
+    -webkit-transition: margin 1s ease-out;
+    -moz-transition: margin 1s ease-out;
+    -o-transition: margin 1s ease-out;
+}
+
+img.five:hover {
+    cursor:pointer;
+    margin-bottom: 3px;
+}
+.content {
+	padding: 1rem;
+}
+
+
+
+footer{
+	background: #333;
+	color: white;
+	padding: 1em;
+	margin-bottom: 0px;
+	margin-top: 500;
+}
+		
